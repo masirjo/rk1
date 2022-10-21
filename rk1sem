@@ -1,7 +1,7 @@
 import os
 
 
-def chzh(n):
+def kuku(n):
     for i in range(len(n)):
         n[i] = str(n[i]).strip()
 
